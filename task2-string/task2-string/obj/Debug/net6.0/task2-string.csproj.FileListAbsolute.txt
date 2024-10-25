@@ -1,0 +1,15 @@
+C:\Users\nonam\source\repos\task2-string\task2-string\bin\Debug\net6.0\task2-string.exe
+C:\Users\nonam\source\repos\task2-string\task2-string\bin\Debug\net6.0\task2-string.deps.json
+C:\Users\nonam\source\repos\task2-string\task2-string\bin\Debug\net6.0\task2-string.runtimeconfig.json
+C:\Users\nonam\source\repos\task2-string\task2-string\bin\Debug\net6.0\task2-string.dll
+C:\Users\nonam\source\repos\task2-string\task2-string\bin\Debug\net6.0\task2-string.pdb
+C:\Users\nonam\source\repos\task2-string\task2-string\obj\Debug\net6.0\task2-string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nonam\source\repos\task2-string\task2-string\obj\Debug\net6.0\task2-string.AssemblyInfoInputs.cache
+C:\Users\nonam\source\repos\task2-string\task2-string\obj\Debug\net6.0\task2-string.AssemblyInfo.cs
+C:\Users\nonam\source\repos\task2-string\task2-string\obj\Debug\net6.0\task2-string.csproj.CoreCompileInputs.cache
+C:\Users\nonam\source\repos\task2-string\task2-string\obj\Debug\net6.0\task2-string.sourcelink.json
+C:\Users\nonam\source\repos\task2-string\task2-string\obj\Debug\net6.0\task2-string.dll
+C:\Users\nonam\source\repos\task2-string\task2-string\obj\Debug\net6.0\refint\task2-string.dll
+C:\Users\nonam\source\repos\task2-string\task2-string\obj\Debug\net6.0\task2-string.pdb
+C:\Users\nonam\source\repos\task2-string\task2-string\obj\Debug\net6.0\task2-string.genruntimeconfig.cache
+C:\Users\nonam\source\repos\task2-string\task2-string\obj\Debug\net6.0\ref\task2-string.dll

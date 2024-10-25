@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "3/s4SBKKElE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nonam\\source\\repos\\task1-return-void\\task1-return-void\\task1-return-void.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nonam\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.33\\microsoft.windowsdesktop.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\nonam\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.33\\microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\nonam\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.33\\microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\nonam\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.33\\microsoft.netcore.app.host.win-x64.6.0.33.nupkg.sha512"
+  ],
+  "logs": []
+}

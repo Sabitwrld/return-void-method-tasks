@@ -1,0 +1,15 @@
+C:\Users\nonam\source\repos\task1-return-void\task1-return-void\bin\Debug\net6.0\task1-return-void.exe
+C:\Users\nonam\source\repos\task1-return-void\task1-return-void\bin\Debug\net6.0\task1-return-void.deps.json
+C:\Users\nonam\source\repos\task1-return-void\task1-return-void\bin\Debug\net6.0\task1-return-void.runtimeconfig.json
+C:\Users\nonam\source\repos\task1-return-void\task1-return-void\bin\Debug\net6.0\task1-return-void.dll
+C:\Users\nonam\source\repos\task1-return-void\task1-return-void\bin\Debug\net6.0\task1-return-void.pdb
+C:\Users\nonam\source\repos\task1-return-void\task1-return-void\obj\Debug\net6.0\task1-return-void.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nonam\source\repos\task1-return-void\task1-return-void\obj\Debug\net6.0\task1-return-void.AssemblyInfoInputs.cache
+C:\Users\nonam\source\repos\task1-return-void\task1-return-void\obj\Debug\net6.0\task1-return-void.AssemblyInfo.cs
+C:\Users\nonam\source\repos\task1-return-void\task1-return-void\obj\Debug\net6.0\task1-return-void.csproj.CoreCompileInputs.cache
+C:\Users\nonam\source\repos\task1-return-void\task1-return-void\obj\Debug\net6.0\task1-return-void.sourcelink.json
+C:\Users\nonam\source\repos\task1-return-void\task1-return-void\obj\Debug\net6.0\task1-return-void.dll
+C:\Users\nonam\source\repos\task1-return-void\task1-return-void\obj\Debug\net6.0\refint\task1-return-void.dll
+C:\Users\nonam\source\repos\task1-return-void\task1-return-void\obj\Debug\net6.0\task1-return-void.pdb
+C:\Users\nonam\source\repos\task1-return-void\task1-return-void\obj\Debug\net6.0\task1-return-void.genruntimeconfig.cache
+C:\Users\nonam\source\repos\task1-return-void\task1-return-void\obj\Debug\net6.0\ref\task1-return-void.dll
